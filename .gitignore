@@ -1,2 +1,5 @@
+# ignorer le fichier password
 password.md
-
+#ignore les fichier txt
+*.txt
+!README.txt
